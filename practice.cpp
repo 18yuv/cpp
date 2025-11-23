@@ -23,7 +23,6 @@ int main(){
     cout << myNum; // this will change the values of the myNum variable.
 
 
-    
     srand(time(0));
     int number = rand () % 100 + 1;
     int guess;
