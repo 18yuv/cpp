@@ -46,8 +46,6 @@ int main(){
 
 
 
-
-    
     string str;
     cout << "Enter a string: ";
     cin >> str;
