@@ -63,8 +63,6 @@ int main(){
 
 
 
-
-
     int myNum =  15;
     myNum = 10;
     cout << myNum; // this will change the values of the myNum variable.
